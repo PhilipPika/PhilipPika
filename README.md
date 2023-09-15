@@ -1,7 +1,6 @@
-
-[![Twitter URL](https://img.shields.io/twitter/follow/philip_pika?style=social)](https://twitter.com/intent/follow?screen_name=philip_pika)
+# [![Twitter URL](https://img.shields.io/twitter/follow/philip_pika?style=social)](https://twitter.com/intent/follow?screen_name=philip_pika)
 [![GitHub Badge](https://img.shields.io/github/followers/PhilipPika?style=social)](https://github.com/PhilipPika?tab=followers)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PhilipPika.PhilipPika&left_text=HelloVisitor)
+# ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PhilipPika.PhilipPika&left_text=HelloVisitor)
 
 ### Hi there Philip Pika👋
 
